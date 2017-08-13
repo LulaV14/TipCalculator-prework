@@ -29,8 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![alt text] (https://s3-us-west-1.amazonaws.com/examplelulav14/TipCalculator.gif)
-<img src='https://s3-us-west-1.amazonaws.com/examplelulav14/TipCalculator.gif title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://s3-us-west-1.amazonaws.com/examplelulav14/TipCalculator.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
